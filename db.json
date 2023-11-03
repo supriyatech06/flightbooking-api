@@ -1,0 +1,114 @@
+{
+    "flights": [
+      {
+        "id": "1",
+        "airline_name": "Air India",
+        "departure_date": "2023-11-10",
+        "departure_place": "DELHi ",
+        "departing_place": "MUMBAI",
+        "departure_time": "08:30",
+        "departing_date": "2023-11-10",
+        "departing_time": "11:30",
+        "price_in_thousands": 5000
+      },
+      {
+        "id": "2",
+        "airline_name": "SpiceJet",
+        "departure_date": "2023-11-11",
+        "departure_place": "KOLKATA ",
+        "departing_place": "CHENNAI ",
+        "departure_time": "14:15",
+        "departing_date": "2023-11-11",
+        "departing_time": "17:30",
+        "price_in_thousands": 6500
+      },
+      {
+        "id": "3",
+        "airline_name": "GoAir",
+        "departure_date": "2023-11-12",
+        "departure_place": "BANGLORE ",
+        "departing_place": "HYDERABAD ",
+        "departure_time": "10:00",
+        "departing_date": "2023-11-12",
+        "departing_time": "12:15",
+        "price_in_thousands": 4000
+      },
+      {
+        "id": "4",
+        "airline_name": "IndiGo",
+        "departure_date": "2023-11-13",
+        "departure_place": "BHUBANESWAR ",
+        "departing_place": "GOA ",
+        "departure_time": "12:45",
+        "departing_date": "2023-11-13",
+        "departing_time": "15:30",
+        "price_in_thousands": 8000
+      },
+      {
+        "id": "5",
+        "airline_name": "Vistara",
+        "departure_date": "2023-11-14",
+        "departure_place": "AHMEDABAD ",
+        "departing_place": "JAIPUR ",
+        "departure_time": "09:30",
+        "departing_date": "2023-11-14",
+        "departing_time": "12:45",
+        "price_in_thousands": 5500
+      },
+      {
+        "id": "6",
+        "airline_name": "AirAsia India",
+        "departure_date": "2023-11-15",
+        "departure_place": "THIRUVANANTHAPURAM ",
+        "departing_place": "COCHIN ",
+        "departure_time": "11:15",
+        "departing_date": "2023-11-15",
+        "departing_time": "14:30",
+        "price_in_thousands": 5200
+      },
+      {
+        "id": "7",
+        "airline_name": "GoAir",
+        "departure_date": "2023-11-16",
+        "departure_place": "NAGALAND ",
+        "departing_place": "IMPHAL ",
+        "departure_time": "13:00",
+        "departing_date": "2023-11-16",
+        "departing_time": "15:45",
+        "price_in_thousands": 4500
+      },
+      {
+        "id": "8",
+        "airline_name": "SpiceJet",
+        "departure_date": "2023-11-17",
+        "departure_place": "PATNA ",
+        "departing_place": "VARANASI ",
+        "departure_time": "07:45",
+        "departing_date": "2023-11-17",
+        "departing_time": "10:15",
+        "price_in_thousands": 6000
+      },
+      {
+        "id": "9",
+        "airline_name": "Air India",
+        "departure_date": "2023-11-18",
+        "departure_place": "LUCKNOW ",
+        "departing_place": "PUNE ",
+        "departure_time": "15:30",
+        "departing_date": "2023-11-18",
+        "departing_time": "18:00",
+        "price_in_thousands": 5600
+      },
+      {
+        "id": "10",
+        "airline_name": "IndiGo",
+        "departure_date": "2023-11-19",
+        "departure_place": "CHANDIGARH ",
+        "departing_place": "GOA ",
+        "departure_time": "11:45",
+        "departing_date": "2023-11-19",
+        "departing_time": "14:30",
+        "price_in_thousands": 7500
+      }
+    ]
+  }
